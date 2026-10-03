@@ -280,3 +280,5 @@ SmartHire demonstrates how enterprise-grade academic placement portals can be bu
 - Institutions avoid expensive recurring software billing.
 - Students understand the exact metrics required to improve their employability.
 - Placement officers maintain an accountable, auditable record of every candidate status change.
+#   s t u d e n t - p l a c e m e n t - r e s u m e - m a n a g e m e n t - s y s t e m  
+ 
