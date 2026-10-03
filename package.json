@@ -1,0 +1,28 @@
+{
+  "name": "smarthire-pathpilot-mvp",
+  "version": "1.0.0",
+  "description": "SmartHire (PathPilot) - AI-Assisted Student Placement & Resume Management System (MERN Stack MVP)",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start",
+    "seed": "cd server && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "mern",
+    "placement-management",
+    "resume-builder",
+    "ats-analyzer",
+    "job-matching",
+    "mock-interview",
+    "career-roadmap"
+  ],
+  "author": "SmartHire Team",
+  "license": "MIT"
+}
